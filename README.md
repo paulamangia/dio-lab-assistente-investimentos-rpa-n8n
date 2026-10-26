@@ -172,4 +172,4 @@ Conecte o Agente de IA do N8N a um modelo como Gemini ou GPT para:
 Se tiver dúvidas, lembre-se: a melhor forma de aprender é experimentando. Erre, corrija e celebre cada pequena vitória no caminho.
 
 ## Demonstração do Workflow no n8n
-![Fluxo n8n](workflow.png)
+![Fluxo n8n](docs/My workflow.json)
